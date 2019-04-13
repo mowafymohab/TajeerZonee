@@ -1,0 +1,673 @@
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "0g6-S0-4cl"; */
+"0g6-S0-4cl.normalTitle" = "لغة";
+
+/* Class = "UILabel"; text = "Stay sign in"; ObjectID = "1MA-ty-6ot"; */
+"1MA-ty-6ot.text" = "ابق تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Driver Details"; ObjectID = "29q-eO-jOQ"; */
+"29q-eO-jOQ.text" = "تفاصيل السائق";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Dl-Zy-jPj"; */
+"2Dl-Zy-jPj.normalTitle" = "زر";
+
+/* Class = "UILabel"; text = "GREAT DEAL"; ObjectID = "2th-79-RWy"; */
+"2th-79-RWy.text" = "صفقة كبيرة";
+
+/* Class = "UITextField"; placeholder = "Your password"; ObjectID = "30H-iq-ioy"; */
+"30H-iq-ioy.placeholder" = "كلمة مرورك";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "30L-da-mr8"; */
+"30L-da-mr8.text" = "ملصق";
+
+/* Class = "UILabel"; text = "Driver Details"; ObjectID = "3Jl-On-WNL"; */
+"3Jl-On-WNL.text" = "تفاصيل السائق";
+
+/* Class = "UIButton"; normalTitle = "Sign In  "; ObjectID = "3Ol-uI-MK7"; */
+"3Ol-uI-MK7.normalTitle" = "تسجيل الدخول  ";
+
+/* Class = "UIButton"; normalTitle = "Currency"; ObjectID = "48w-wV-9S8"; */
+"48w-wV-9S8.normalTitle" = "عملة";
+
+/* Class = "UILabel"; text = "We accept:"; ObjectID = "4kf-ma-ZjG"; */
+"4kf-ma-ZjG.text" = "نحن نقبل:";
+
+/* Class = "UILabel"; text = "Includes:"; ObjectID = "525-XA-25F"; */
+"525-XA-25F.text" = "يشمل:";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "5Pc-ng-mPE"; */
+"5Pc-ng-mPE.normalTitle" = "بلد";
+
+/* Class = "UITextField"; placeholder = "sletct place pick-up"; ObjectID = "5YT-71-wUq"; */
+"5YT-71-wUq.placeholder" = "ضع مكان";
+
+/* Class = "UIButton"; normalTitle = "Continue without Sign in"; ObjectID = "5lT-ys-PA4"; */
+"5lT-ys-PA4.normalTitle" = "متابعة بدون تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Time: noon"; ObjectID = "6Du-2D-Kih"; */
+"6Du-2D-Kih.text" = "الوقت: الظهر";
+
+/* Class = "UITextField"; placeholder = "Type of car"; ObjectID = "6Gk-6t-KzR"; */
+"6Gk-6t-KzR.placeholder" = "نوع السيارة";
+
+/* Class = "UITextField"; placeholder = "     Your password"; ObjectID = "6dB-e4-ZtR"; */
+"6dB-e4-ZtR.placeholder" = "     كلمة مرورك";
+
+/* Class = "UILabel"; text = "jun"; ObjectID = "6ln-GD-LWs"; */
+"6ln-GD-LWs.text" = "jun";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "793-iK-C5a"; */
+"793-iK-C5a.normalTitle" = "إرسال رسالة";
+
+/* Class = "UILabel"; text = "Welcome back!"; ObjectID = "79z-yU-TEN"; */
+"79z-yU-TEN.text" = "!أهلا بكم من جديد";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "7Bz-Xu-X9j"; */
+"7Bz-Xu-X9j.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "8QP-vK-pld"; */
+"8QP-vK-pld.text" = "النقد";
+
+/* Class = "UIButton"; normalTitle = "Continue Booking"; ObjectID = "8a6-Lk-JMw"; */
+"8a6-Lk-JMw.normalTitle" = "مواصلة الحجز";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8qq-4K-hHO"; */
+"8qq-4K-hHO.text" = "ملصق";
+
+/* Class = "UITextField"; placeholder = "Your email address / phone number"; ObjectID = "8vc-Rj-a2B"; */
+"8vc-Rj-a2B.placeholder" = "عنوان بريدك الإلكتروني \ رقم هاتفك";
+
+/* Class = "UILabel"; text = "hello@gmail.com"; ObjectID = "8vf-X2-lvJ"; */
+"8vf-X2-lvJ.text" = "hello@gmail.com";
+
+/* Class = "UILabel"; text = "jun"; ObjectID = "95d-pV-6GB"; */
+"95d-pV-6GB.text" = "يناير";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "9A4-hQ-jUu"; */
+"9A4-hQ-jUu.text" = "لديك بالفعل حساب؟";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "9CH-Hk-cQF"; */
+"9CH-Hk-cQF.normalTitle" = "حفظ التغييرات";
+
+/* Class = "UILabel"; text = "+98437237234"; ObjectID = "9Pz-Xa-mkb"; */
+"9Pz-Xa-mkb.text" = "+98437237234";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "9sc-45-QCE"; */
+"9sc-45-QCE.text" = "السعر";
+
+/* Class = "UILabel"; text = "08"; ObjectID = "9y2-rE-GRd"; */
+"9y2-rE-GRd.text" = "08";
+
+/* Class = "UILabel"; text = "BMW2 Series"; ObjectID = "A4e-Kx-InB"; */
+"A4e-Kx-InB.text" = "BMW2 Series";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "AO1-F1-jj1"; */
+"AO1-F1-jj1.text" = "ملخص";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "Adu-aI-ro3"; */
+"Adu-aI-ro3.normalTitle" = "نهاية";
+
+/* Class = "UILabel"; text = "Unlimited mileage"; ObjectID = "B1n-mX-4wU"; */
+"B1n-mX-4wU.text" = "عدد غير محدود من الأميال";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "BNN-lD-sde"; */
+"BNN-lD-sde.text" = "BMW";
+
+/* Class = "UILabel"; text = "Total Day:"; ObjectID = "BNP-xf-cdW"; */
+"BNP-xf-cdW.text" = "مجموع اليوم:";
+
+/* Class = "UILabel"; text = "Unlimited mileage"; ObjectID = "BxE-p5-yBd"; */
+"BxE-p5-yBd.text" = "عدد غير محدود من الأميال";
+
+
+/* Class = "UILabel"; text = "Drop-Off:"; ObjectID = "COZ-qm-zVg"; */
+"COZ-qm-zVg.text" = "ضع:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Cw1-qF-hjh"; */
+"Cw1-qF-hjh.normalTitle" = "زر";
+
+/* Class = "UITextField"; placeholder = "       YourEmail Address"; ObjectID = "D5z-MA-N5X"; */
+"D5z-MA-N5X.placeholder" = "       اكتب اميلك";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "DFf-tU-h3A"; */
+"DFf-tU-h3A.text" = "Account";
+
+/* Class = "UITextField"; placeholder = "    Phone Number"; ObjectID = "Dy8-7A-imB"; */
+"Dy8-7A-imB.placeholder" = "    رقم الهاتف";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "EQz-3z-qBv"; */
+"EQz-3z-qBv.text" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Confirm & Book"; ObjectID = "Emm-nd-K4r"; */
+"Emm-nd-K4r.normalTitle" = "تأكيد وحجز";
+
+/* Class = "UILabel"; text = "Pay with Credit Card"; ObjectID = "F5u-46-Teh"; */
+"F5u-46-Teh.text" = "الدفع باستخدام بطاقة الائتمان";
+
+/* Class = "UITextField"; placeholder = "    Exp. Date"; ObjectID = "Fgn-lJ-Jno"; */
+"Fgn-lJ-Jno.placeholder" = "    Exp. تاريخ";
+
+/* Class = "UILabel"; text = "Return at another location?"; ObjectID = "G1C-wV-bz3"; */
+"G1C-wV-bz3.text" = " العودة في موقع آخر؟";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "G4d-fL-FWW"; */
+"G4d-fL-FWW.text" = "هاتف:";
+
+/* Class = "UILabel"; text = "I have read and agree to the terms of use and privacy policy"; ObjectID = "GLA-Nr-Dz1"; */
+"GLA-Nr-Dz1.text" = "لقد قرأت ووافقت على شروط الاستخدام وسياسة الخصوصية";
+
+/* Class = "UILabel"; text = "I have read and Agree to the terms of use and privacy policy."; ObjectID = "Gg0-e8-taI"; */
+"Gg0-e8-taI.text" = "لقد قرأت ووافقت على شروط الاستخدام وسياسة الخصوصية.";
+
+/* Class = "UILabel"; text = "Mr"; ObjectID = "HH1-O6-qWQ"; */
+"HH1-O6-qWQ.text" = "Mr";
+
+/* Class = "UILabel"; text = "Your request has been approved"; ObjectID = "HIZ-1f-hMM"; */
+"HIZ-1f-hMM.text" = "تمت الموافقة على طلبك";
+
+/* Class = "UILabel"; text = "GREAT DEAL"; ObjectID = "HVb-Gb-s05"; */
+"HVb-Gb-s05.text" = "صفقة كبيرة";
+
+/* Class = "UITextField"; placeholder = "     Email Address"; ObjectID = "HWy-ak-PnE"; */
+"HWy-ak-PnE.placeholder" = "     عنوان البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "HdW-XI-c6f"; */
+"HdW-XI-c6f.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "$300/Day"; ObjectID = "Hdi-a1-JtD"; */
+"Hdi-a1-JtD.text" = "$300/Day";
+
+/* Class = "UILabel"; text = "PICK-UP & DROP-OFF"; ObjectID = "HoK-HZ-NrH"; */
+"HoK-HZ-NrH.text" = "PICK-UP & DROP-OFF";
+
+/* Class = "UITextField"; placeholder = "Your Name"; ObjectID = "Hoe-Jh-Qhx"; */
+"Hoe-Jh-Qhx.placeholder" = "اسمك";
+
+/* Class = "UILabel"; text = "Free cancellation"; ObjectID = "IGG-9m-lYY"; */
+"IGG-9m-lYY.text" = "إلغاء مجاني";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "K3C-ST-klW"; */
+"K3C-ST-klW.text" = "BMW";
+
+/* Class = "UITabBarItem"; title = "Road"; ObjectID = "K4m-Xj-GcF"; */
+"K4m-Xj-GcF.title" = "الطريق";
+
+/* Class = "UILabel"; text = "5 Days"; ObjectID = "KGo-Bt-87T"; */
+"KGo-Bt-87T.text" = "خمسة ايام";
+
+/* Class = "UILabel"; text = "$169"; ObjectID = "KRX-F8-MaK"; */
+"KRX-F8-MaK.text" = "$169";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "Kcd-Ix-pfI"; */
+"Kcd-Ix-pfI.text" = "BMW";
+
+/* Class = "UILabel"; text = "$50/Day"; ObjectID = "KvX-Q6-0t9"; */
+"KvX-Q6-0t9.text" = "$50/Day";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "KyY-NI-RGJ"; */
+"KyY-NI-RGJ.text" = "BMW";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "L3t-pL-i3M"; */
+"L3t-pL-i3M.placeholder" = "عام";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "LD3-TK-IeF"; */
+"LD3-TK-IeF.text" = "BMW";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "LuV-fF-ztz"; */
+"LuV-fF-ztz.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Booking Complete"; ObjectID = "M7N-rL-xhj"; */
+"M7N-rL-xhj.text" = "اكتمل الحجز";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "MZ9-bW-zgm"; */
+"MZ9-bW-zgm.normalTitle" = "صرف";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "Mgq-o7-4on"; */
+"Mgq-o7-4on.text" = "BMW";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "NEG-JE-TtC"; */
+"NEG-JE-TtC.text" = "BMW";
+
+/* Class = "UILabel"; text = "Credit Card"; ObjectID = "NT6-L2-GGf"; */
+"NT6-L2-GGf.text" = "Credit Card";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "NxQ-qB-5Pn"; */
+"NxQ-qB-5Pn.text" = "بطاقة الائتمان";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "OAP-PO-bhj"; */
+"OAP-PO-bhj.text" = "البريد الإلكتروني:";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "OBc-5s-5bB"; */
+"OBc-5s-5bB.title" = "بحث";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P8m-bz-p8j"; */
+"P8m-bz-p8j.normalTitle" = "زر";
+
+/* Class = "UITextField"; placeholder = "    Last Name"; ObjectID = "PEk-jw-5yo"; */
+"PEk-jw-5yo.placeholder" = "    اسم العائلة";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "PNh-6Z-xRp"; */
+"PNh-6Z-xRp.text" = "اسم:";
+
+/* Class = "UILabel"; text = "TRIP DATE"; ObjectID = "PTr-ci-AEK"; */
+"PTr-ci-AEK.text" = "تاريخ الرحلة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PiC-8K-cU2"; */
+"PiC-8K-cU2.normalTitle" = "زر";
+
+/* Class = "UITextField"; placeholder = "sletct place pick-of"; ObjectID = "QRb-0A-0X4"; */
+"QRb-0A-0X4.placeholder" = "مكان سليكت بيك";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "QTl-a6-44A"; */
+"QTl-a6-44A.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qgj-4f-cRl"; */
+"Qgj-4f-cRl.text" = "ملصق";
+
+/* Class = "UILabel"; text = "Baby Seat"; ObjectID = "Qi3-8j-Juu"; */
+"Qi3-8j-Juu.text" = "مقعد الطفل";
+
+/* Class = "UITextField"; placeholder = "Drop off location"; ObjectID = "Qq8-K7-45r"; */
+"Qq8-K7-45r.placeholder" = "ضع الموقع";
+
+/* Class = "UITextField"; placeholder = "Your email address"; ObjectID = "R9x-9U-5zq"; */
+"R9x-9U-5zq.placeholder" = "اكتب اميلك";
+
+/* Class = "UILabel"; text = "Pay at Pick-Up"; ObjectID = "RMr-Lk-mKz"; */
+"RMr-Lk-mKz.text" = "Pay at Pick-Up";
+
+/* Class = "UITextField"; text = "     your position"; ObjectID = "ROC-Up-Ior"; */
+"ROC-Up-Ior.text" = "     مكانك";
+
+/* Class = "UILabel"; text = "5 Days"; ObjectID = "RVa-ef-tnt"; */
+"RVa-ef-tnt.text" = "خمسمة ايام";
+
+/* Class = "UILabel"; text = "+98437237234"; ObjectID = "Rbf-I3-czg"; */
+"Rbf-I3-czg.text" = "+98437237234";
+
+/* Class = "UILabel"; text = "10:00AM, Thu, Jun 07, Port Darron Airport."; ObjectID = "S09-ND-5Bh"; */
+"S09-ND-5Bh.text" = "10:00AM, Thu, Jun 07, Port Darron Airport.";
+
+/* Class = "UILabel"; text = "$169"; ObjectID = "SO2-ev-8oX"; */
+"SO2-ev-8oX.text" = "$169";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Sn0-nW-OeU"; */
+"Sn0-nW-OeU.normalTitle" = "تم";
+
+/* Class = "UIButton"; normalTitle = "Sgin Out"; ObjectID = "T6U-pv-T8o"; */
+"T6U-pv-T8o.normalTitle" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "TUk-dD-N5X"; */
+"TUk-dD-N5X.text" = "BMW";
+
+/* Class = "UILabel"; text = "Pick-Up:"; ObjectID = "Thg-x2-cHx"; */
+"Thg-x2-cHx.text" = "Pick-Up:";
+
+/* Class = "UILabel"; text = "Mr: Amr Sobhy"; ObjectID = "Tk1-pb-dMr"; */
+"Tk1-pb-dMr.text" = "Mr: Amr Sobhy";
+
+/* Class = "UITextView"; text = "Your Message"; ObjectID = "TrE-OA-roa"; */
+"TrE-OA-roa.text" = "رسالتك";
+
+/* Class = "UILabel"; text = "GPS Navigation, Child Seat"; ObjectID = "Tw9-LE-gra"; */
+"Tw9-LE-gra.text" = "تحديد المواقع والملاحة ، مقعد الطفل";
+
+/* Class = "UIButton"; normalTitle = "confirm pick up"; ObjectID = "U57-78-ShM"; */
+"U57-78-ShM.normalTitle" = "تأكيد التقاط";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "V0w-6v-wpB"; */
+"V0w-6v-wpB.text" = "اسم:";
+
+/* Class = "UILabel"; text = "amr@yahoo.com"; ObjectID = "VHY-kk-ujg"; */
+"VHY-kk-ujg.text" = "amr@yahoo.com";
+
+/* Class = "UITextField"; placeholder = "    CVC Code"; ObjectID = "VJZ-fd-B2R"; */
+"VJZ-fd-B2R.placeholder" = "    CVC Code";
+
+/* Class = "UILabel"; text = "or similar"; ObjectID = "WEV-yL-zJv"; */
+"WEV-yL-zJv.text" = "أو ما شابه ذلك";
+
+/* Class = "UILabel"; text = "Total Day:"; ObjectID = "WIu-XS-BVz"; */
+"WIu-XS-BVz.text" = "مجموع اليوم:";
+
+/* Class = "UILabel"; text = "Additional Specification"; ObjectID = "WLN-p8-mcq"; */
+"WLN-p8-mcq.text" = "مواصفات إضافية";
+
+/* Class = "UILabel"; text = "$300/Day"; ObjectID = "WXW-0p-0J5"; */
+"WXW-0p-0J5.text" = "$300/Day";
+
+/* Class = "UILabel"; text = "Thu, Jun 07  "; ObjectID = "WdB-Pw-g0t"; */
+"WdB-Pw-g0t.text" = "Thu, Jun 07  ";
+
+/* Class = "UILabel"; text = "amr@yahoo.com"; ObjectID = "XGq-xS-M79"; */
+"XGq-xS-M79.text" = "amr@yahoo.com";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "XKy-uZ-GfU"; */
+"XKy-uZ-GfU.text" = "إعدادات";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "XR0-xM-vgc"; */
+"XR0-xM-vgc.text" = "معلومات";
+
+/* Class = "UILabel"; text = "Thu, Jun 07  "; ObjectID = "YA3-dH-YMf"; */
+"YA3-dH-YMf.text" = "Thu, Jun 07  ";
+
+/* Class = "UILabel"; text = "or similar"; ObjectID = "YK9-oc-Pnr"; */
+"YK9-oc-Pnr.text" = "أو ما شابه ذلك";
+
+/* Class = "UILabel"; text = "GPS Navigation, Child Seat GPS Navigation, Child Seat"; ObjectID = "YVb-rc-xcd"; */
+"YVb-rc-xcd.text" = "تحديد المواقع والملاحة ، مقعد الطفل الملاحة GPS ، مقعد الطفل";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "YWh-xb-lh8"; */
+"YWh-xb-lh8.text" = "بحث";
+
+/* Class = "UILabel"; text = "$169"; ObjectID = "Yvr-rT-dGE"; */
+"Yvr-rT-dGE.text" = "$169";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "Yyg-Os-cCL"; */
+"Yyg-Os-cCL.text" = "BMW";
+
+/* Class = "UITextField"; placeholder = "       Your name"; ObjectID = "ZWg-Nk-K4R"; */
+"ZWg-Nk-K4R.placeholder" = "       اسمك";
+
+/* Class = "UIButton"; normalTitle = "Place Your Oder"; ObjectID = "Zay-0q-l1I"; */
+"Zay-0q-l1I.normalTitle" = "ضع طلبك";
+
+/* Class = "UILabel"; text = "BMW 2 Series"; ObjectID = "a0G-bt-Oen"; */
+"a0G-bt-Oen.text" = "BMW 2 Series";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "a24-Qn-8cy"; */
+"a24-Qn-8cy.text" = "إخطارات";
+
+/* Class = "UILabel"; text = "GREAT DEAL"; ObjectID = "aFZ-Lq-dZx"; */
+"aFZ-Lq-dZx.text" = "صفقة كبيرة";
+
+/* Class = "UILabel"; text = "Includes:"; ObjectID = "aHd-4n-TdS"; */
+"aHd-4n-TdS.text" = "يشمل:";
+
+/* Class = "UILabel"; text = "BMW2 Series"; ObjectID = "aNF-bU-1At"; */
+"aNF-bU-1At.text" = "BMW2 Series";
+
+/* Class = "UILabel"; text = "Free cancellation"; ObjectID = "aP9-mD-OxG"; */
+"aP9-mD-OxG.text" = "إلغاء مجاني";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "aQr-PE-4LF"; */
+"aQr-PE-4LF.text" = "ملخص";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "b7S-fe-9h8"; */
+"b7S-fe-9h8.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "$50/Day"; ObjectID = "bA8-ul-eYI"; */
+"bA8-ul-eYI.text" = "$50/Day";
+
+/* Class = "UITextField"; placeholder = "Color"; ObjectID = "bDP-iI-RI3"; */
+"bDP-iI-RI3.placeholder" = "اللون";
+
+/* Class = "UILabel"; text = "Pay at Pick-Up"; ObjectID = "bNJ-V6-ssg"; */
+"bNJ-V6-ssg.text" = "Pay at Pick-Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bPD-gH-MtN"; */
+"bPD-gH-MtN.text" = "ملصق";
+
+/* Class = "UILabel"; text = "Your Booking is Done!"; ObjectID = "c15-Sr-D3q"; */
+"c15-Sr-D3q.text" = "!حجزك انتهى";
+
+/* Class = "UILabel"; text = "$169"; ObjectID = "cDa-JK-NXn"; */
+"cDa-JK-NXn.text" = "$169";
+
+/* Class = "UITextField"; placeholder = "    Phone number"; ObjectID = "cUa-VE-X9h"; */
+"cUa-VE-X9h.placeholder" = "    رقم الهاتف";
+
+/* Class = "UILabel"; text = "Free cancellation"; ObjectID = "cYF-nq-yYn"; */
+"cYF-nq-yYn.text" = "إلغاء مجاني";
+
+/* Class = "UILabel"; text = "K-net"; ObjectID = "cmF-pH-g22"; */
+"cmF-pH-g22.text" = "K-net";
+
+/* Class = "UILabel"; text = "Request driver"; ObjectID = "d5R-3E-3g8"; */
+"d5R-3E-3g8.text" = "طلب سائق";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "d6P-VO-ffO"; */
+"d6P-VO-ffO.text" = "لديك بالفعل حساب؟";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "dM3-P6-RxK"; */
+"dM3-P6-RxK.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "dN5-fz-ecw"; */
+"dN5-fz-ecw.text" = "مجموع";
+
+/* Class = "UITextField"; placeholder = "  Card Number"; ObjectID = "dkv-lK-0up"; */
+"dkv-lK-0up.placeholder" = "  رقم البطاقة";
+
+/* Class = "UITextField"; placeholder = "  First Name"; ObjectID = "e0I-jA-RrR"; */
+"e0I-jA-RrR.placeholder" = "  الاسم الأول";
+
+/* Class = "UITextField"; placeholder = "Your name"; ObjectID = "e2Q-tW-tvM"; */
+"e2Q-tW-tvM.placeholder" = "اسمك";
+
+/* Class = "UILabel"; text = "Terms & Condition"; ObjectID = "eOd-2e-qgf"; */
+"eOd-2e-qgf.text" = "الشروط والأحكام";
+
+/* Class = "UILabel"; text = "Forgot your password?"; ObjectID = "fCN-ce-QhA"; */
+"fCN-ce-QhA.text" = "هل نسيت كلمة مرورك؟";
+
+/* Class = "UILabel"; text = "Upload Photo"; ObjectID = "g1d-Qk-SX7"; */
+"g1d-Qk-SX7.text" = "تحميل الصور";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "gI7-d5-Ys1"; */
+"gI7-d5-Ys1.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "gJu-Mi-o3D"; */
+"gJu-Mi-o3D.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "GPS Navigation"; ObjectID = "gWG-x1-DnY"; */
+"gWG-x1-DnY.text" = "تحديد المواقع والملاحة";
+
+/* Class = "UILabel"; text = "Unlimited mileage"; ObjectID = "gWV-dV-xfa"; */
+"gWV-dV-xfa.text" = "عدد غير محدود من الأميال";
+
+/* Class = "UILabel"; text = "Child Seat"; ObjectID = "gaw-ui-tdt"; */
+"gaw-ui-tdt.text" = "مقعد الطفل";
+
+/* Class = "UILabel"; text = "Message from application managment"; ObjectID = "ggg-OF-wXL"; */
+"ggg-OF-wXL.text" = "رسالة من إدارة التطبيق";
+
+/* Class = "UILabel"; text = "Sign up"; ObjectID = "gi7-KE-h7Z"; */
+"gi7-KE-h7Z.text" = "اشترك";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "gkM-6I-mbN"; */
+"gkM-6I-mbN.text" = "BMW";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "h90-sq-Yza"; */
+"h90-sq-Yza.text" = "حساب";
+
+/* Class = "UILabel"; text = "+98437237234"; ObjectID = "hQ4-xD-h5q"; */
+"hQ4-xD-h5q.text" = "+98437237234";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "hZI-zI-hVr"; */
+"hZI-zI-hVr.text" = "ملخص";
+
+/* Class = "UILabel"; text = "Car Specification"; ObjectID = "hv9-F0-KvV"; */
+"hv9-F0-KvV.text" = "مواصفات السيارة";
+
+/* Class = "UILabel"; text = "BMW 2 Series"; ObjectID = "iJF-XI-6yJ"; */
+"iJF-XI-6yJ.text" = "BMW 2 Series";
+
+/* Class = "UILabel"; text = "Mr.Khaled Ammar"; ObjectID = "iLc-Qr-ygg"; */
+"iLc-Qr-ygg.text" = "Mr.Khaled Ammar";
+
+/* Class = "UILabel"; text = "Mon, Jun 11"; ObjectID = "iNf-kA-c3s"; */
+"iNf-kA-c3s.text" = "Mon, Jun 11";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "imk-ps-jOE"; */
+"imk-ps-jOE.normalTitle" = "زر";
+
+/* Class = "UILabel"; text = "Drop-Off:"; ObjectID = "jWe-lP-pId"; */
+"jWe-lP-pId.text" = "Drop-Off:";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "jqO-1z-p7Z"; */
+"jqO-1z-p7Z.text" = "Mon";
+
+/* Class = "UILabel"; text = "10:00AM, Thu, Jun 07, Port Darron Airport."; ObjectID = "kEh-p5-fBh"; */
+"kEh-p5-fBh.text" = "10:00AM, Thu, Jun 07, Port Darron Airport.";
+
+/* Class = "UILabel"; text = "Pay at Pick-Up"; ObjectID = "kTM-Wi-7TI"; */
+"kTM-Wi-7TI.text" = "Pay at Pick-Up";
+
+/* Class = "UILabel"; text = "Mr: Amr Sobhy"; ObjectID = "kbg-f2-sG0"; */
+"kbg-f2-sG0.text" = "Mr: Amr Sobhy";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "kd3-ha-h2B"; */
+"kd3-ha-h2B.text" = "11";
+
+/* Class = "UILabel"; text = "Pick-Up:"; ObjectID = "kjc-Kd-Ljk"; */
+"kjc-Kd-Ljk.text" = "Pick-Up:";
+
+/* Class = "UILabel"; text = "$300/Day"; ObjectID = "kkz-iI-Qwz"; */
+"kkz-iI-Qwz.text" = "$300/Day";
+
+/* Class = "UILabel"; text = "+98437237234"; ObjectID = "lOx-du-bZx"; */
+"lOx-du-bZx.text" = "+98437237234";
+
+/* Class = "UISegmentedControl"; lgk-zF-9a8.segmentTitles[0] = "Filter"; ObjectID = "lgk-zF-9a8"; */
+"lgk-zF-9a8.segmentTitles[0]" = "فلتر";
+
+/* Class = "UISegmentedControl"; lgk-zF-9a8.segmentTitles[1] = "Result"; ObjectID = "lgk-zF-9a8"; */
+"lgk-zF-9a8.segmentTitles[1]" = "نتيجة";
+
+/* Class = "UITextField"; placeholder = "pick up location"; ObjectID = "mDo-i5-9J7"; */
+"mDo-i5-9J7.placeholder" = "ضع مكانك";
+
+/* Class = "UILabel"; text = "BMW 2 Series"; ObjectID = "mRy-Ll-bSK"; */
+"mRy-Ll-bSK.text" = "BMW 2 Series";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "md8-Fn-lT7"; */
+"md8-Fn-lT7.text" = "Thu";
+
+/* Class = "UILabel"; text = "Driver Details"; ObjectID = "mer-9D-Pll"; */
+"mer-9D-Pll.text" = "تفاصيل السائق";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "oHw-Qp-Lsv"; */
+"oHw-Qp-Lsv.text" = "البريد الإلكتروني:";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "ohx-ck-mnl"; */
+"ohx-ck-mnl.normalTitle" = "فلتر";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "pCn-7a-dDS"; */
+"pCn-7a-dDS.normalTitle" = "صرف";
+
+/* Class = "UILabel"; text = "Mon, Jun 11"; ObjectID = "pMd-ka-XZm"; */
+"pMd-ka-XZm.text" = "Mon, Jun 11";
+
+/* Class = "UITabBarItem"; title = "Car List"; ObjectID = "pae-xs-b2e"; */
+"pae-xs-b2e.title" = "قائمة السيارات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pgx-er-5Vi"; */
+"pgx-er-5Vi.text" = "ملصق";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "prF-hM-HTT"; */
+"prF-hM-HTT.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "     Card Holder"; ObjectID = "q0x-IT-qWE"; */
+"q0x-IT-qWE.placeholder" = "     حامل البطاقة";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "q5i-5Y-qxF"; */
+"q5i-5Y-qxF.text" = "مساعدة";
+
+/* Class = "UIButton"; normalTitle = "Book This Car"; ObjectID = "qCn-Li-Nke"; */
+"qCn-Li-Nke.normalTitle" = "احجز هذه السيارة";
+
+/* Class = "UILabel"; text = "$300/Day"; ObjectID = "ql0-dC-iJB"; */
+"ql0-dC-iJB.text" = "$300/Day";
+
+/* Class = "UITextField"; placeholder = "Model"; ObjectID = "ql1-OF-lD8"; */
+"ql1-OF-lD8.placeholder" = "نموذج";
+
+/* Class = "UILabel"; text = "Car Rental Location"; ObjectID = "r5D-g5-VHn"; */
+"r5D-g5-VHn.text" = "تأجير السيارات الموقع";
+
+/* Class = "UINavigationItem"; title = " TZONE car rental"; ObjectID = "sDd-I1-J6k"; */
+"sDd-I1-J6k.title" = " تاجير السيارات";
+
+/* Class = "UILabel"; text = "$50/Day"; ObjectID = "sN3-Zg-Mxw"; */
+"sN3-Zg-Mxw.text" = "$50/Day";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "svL-EX-2Md"; */
+"svL-EX-2Md.text" = "ملصق";
+
+/* Class = "UILabel"; text = "Additional Driver"; ObjectID = "t2e-WZ-VAE"; */
+"t2e-WZ-VAE.text" = "سائق إضافي";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "tGK-Ul-zJz"; */
+"tGK-Ul-zJz.text" = "هاتف:";
+
+/* Class = "UIButton"; normalTitle = "Show Me Car"; ObjectID = "tf4-zJ-cAo"; */
+"tf4-zJ-cAo.normalTitle" = "أرني سيارة";
+
+/* Class = "UITextField"; placeholder = "     Your email address"; ObjectID = "u1W-0j-hHT"; */
+"u1W-0j-hHT.placeholder" = "     عنوان بريدك الالكتروني";
+
+/* Class = "UILabel"; text = "Your payment information is safe with us. We use secure transmission and encrypted storage."; ObjectID = "uHu-CC-SXN"; */
+"uHu-CC-SXN.text" = "معلومات الدفع الخاصة بك آمنة معنا. نحن نستخدم نقل آمن وتخزين مشفر.";
+
+/* Class = "UILabel"; text = "Pay at Pick-Up"; ObjectID = "uQz-3b-Zti"; */
+"uQz-3b-Zti.text" = "Pay at Pick-Up";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "uzT-Zi-WgK"; */
+"uzT-Zi-WgK.text" = "تسجيل";
+
+/* Class = "UILabel"; text = "Unlimited mileage"; ObjectID = "v0h-8Z-4eq"; */
+"v0h-8Z-4eq.text" = "عدد غير محدود من الأميال";
+
+/* Class = "UITextField"; placeholder = "Name Car"; ObjectID = "v0o-Sd-kSC"; */
+"v0o-Sd-kSC.placeholder" = "اسم السيارة";
+
+/* Class = "UITextField"; placeholder = "Your email address"; ObjectID = "vI9-w7-3FX"; */
+"vI9-w7-3FX.placeholder" = "عنوان بريدك الالكتروني";
+
+/* Class = "UITextField"; placeholder = "Your password"; ObjectID = "vLR-FY-5cb"; */
+"vLR-FY-5cb.placeholder" = "كلمة مرورك";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "vVh-2N-nhB"; */
+"vVh-2N-nhB.normalTitle" = "تم";
+
+/* Class = "UIButton"; normalTitle = "Save Change"; ObjectID = "vqx-Mc-RDO"; */
+"vqx-Mc-RDO.normalTitle" = "Save Change";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "vrz-6L-GSG"; */
+"vrz-6L-GSG.text" = "إشعار";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "wMT-sy-IDp"; */
+"wMT-sy-IDp.normalTitle" = "صرف";
+
+/* Class = "UILabel"; text = "Pay"; ObjectID = "wfN-AR-yd1"; */
+"wfN-AR-yd1.text" = "دفع";
+
+/* Class = "UIButton"; normalTitle = "Edit account"; ObjectID = "whr-w6-Eum"; */
+"whr-w6-Eum.normalTitle" = "تحرير الحساب";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "xAs-w7-Spw"; */
+"xAs-w7-Spw.text" = "إشعار";
+
+/* Class = "UILabel"; text = "NO Data"; ObjectID = "xB1-OA-tgP"; */
+"xB1-OA-tgP.text" = "لايوجد بيانات";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "xGF-3v-6xb"; */
+"xGF-3v-6xb.text" = "BMW";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "xLu-s7-RuQ"; */
+"xLu-s7-RuQ.text" = "ليس لديك حساب؟";
+
+/* Class = "UILabel"; text = "Ms"; ObjectID = "xXr-h0-IWl"; */
+"xXr-h0-IWl.text" = "Ms";
+
+/* Class = "UIButton"; normalTitle = " Sign Up  "; ObjectID = "xi8-gu-goM"; */
+"xi8-gu-goM.normalTitle" = " سجل  ";
+
+/* Class = "UILabel"; text = "Time: none"; ObjectID = "xvw-Bm-1hx"; */
+"xvw-Bm-1hx.text" = "الوقت: لا شيء";
+
+/* Class = "UILabel"; text = "Free cancellation"; ObjectID = "y9B-TK-HlU"; */
+"y9B-TK-HlU.text" = "إلغاء مجاني";
+
+/* Class = "UITextField"; placeholder = "Your password"; ObjectID = "yap-0X-B2g"; */
+"yap-0X-B2g.placeholder" = "كلمة السر خاصتك";
